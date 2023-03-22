@@ -5,6 +5,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://JavierMurua.github.io',
+  site: 'https://javiermurua.github.io',
   base: '/fazt-landingpage',
 });
